@@ -1,4 +1,4 @@
-# よめうわ
+# よめうわ　嫁に浮気されたら、大学時代に戻ってきました！
 
 著者：万和彁了
 
@@ -46,6 +46,8 @@
 詳細は「LICENSE.txt」を参照してください。
 
 ---
+
+This repository contains the official version of the work. Modification and redistribution are prohibited.
 
 ## 備考
 
