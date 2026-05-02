@@ -7,9 +7,14 @@
 ## 概要
 
 本リポジトリは、小説「よめうわ」の正規公開版です。
+
 作品の保存および閲覧のために公開されています。
+
 ダウンロードは「Code」→「Download ZIP」から行えます。
-This repository contains the official version of the work. Modification and redistribution are prohibited.
+
+This repository contains the official version of the work. 
+
+Modification and redistribution are prohibited.
 ---
 
 ## 収録内容
